@@ -1,12 +1,30 @@
 Explain each of the following:
 
 ng-app
-ng-controller 
+    -Initiates a module
+
+ng-controller
+    -Helps manage the interaction between the model and the view
+
 $scope
-ng-model 
+    -Manage the interaction between the controller and the view
+
+ng-model
+    -
 {{}}
+    -
+
 ng-repeat
+    -used to repeat something multiple times.
+
 filters
+    -refines data to given specification
+
 General Overview of Services and Directives
+    -
+
 ng-show (Not in Video)
+    -
+
 ng-click
+    -controls

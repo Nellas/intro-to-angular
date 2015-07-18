@@ -1,10 +1,13 @@
 //Your app is called myApp
 //Create a controller called myController
+var app = angular.module('myApp');
+app.controller('myController', function($scope) {
 
+};
 
 //Instantiate that controller in the html on the body
 
-<body>
+<body ng-controller="myController">
 
 </body>
 
